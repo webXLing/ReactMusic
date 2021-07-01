@@ -1,0 +1,2 @@
+(this["webpackJsonpxl-web-music"]=this["webpackJsonpxl-web-music"]||[]).push([[10],{190:function(e,s,t){"use strict";t.r(s);var c=t(0),i=t(4);s.default=Object(c.memo)((function(){return Object(i.jsx)("div",{children:"XLToplist"})}))}}]);
+//# sourceMappingURL=10.e2b2c088.chunk.js.map

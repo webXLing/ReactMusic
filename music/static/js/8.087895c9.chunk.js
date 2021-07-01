@@ -1,0 +1,2 @@
+(this["webpackJsonpxl-web-music"]=this["webpackJsonpxl-web-music"]||[]).push([[8],{193:function(e,s,i){"use strict";i.r(s);var t=i(0),c=i(4);s.default=Object(t.memo)((function(){return Object(c.jsx)("div",{className:"w980",style:{height:"1200px",border:"solid 1px #d3d3d3"},children:"XLDjradio"})}))}}]);
+//# sourceMappingURL=8.087895c9.chunk.js.map

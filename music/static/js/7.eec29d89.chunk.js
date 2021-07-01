@@ -1,0 +1,2 @@
+(this["webpackJsonpxl-web-music"]=this["webpackJsonpxl-web-music"]||[]).push([[7],{192:function(e,s,t){"use strict";t.r(s);var c=t(0),i=t(4);s.default=Object(c.memo)((function(){return Object(i.jsx)("div",{className:"w980",style:{height:"1200px",border:"solid 1px #d3d3d3"},children:Object(i.jsx)("h2",{children:"XLArtist"})})}))}}]);
+//# sourceMappingURL=7.eec29d89.chunk.js.map
